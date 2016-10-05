@@ -2,7 +2,7 @@
 
 var hooks = {
 	afterAbeAttributes: function afterAbeAttributes(obj, str, json, abe) {
-		obj.hint = abe.getAttr(str, 'hint')
+		obj.hint = abe.cmsData.regex.getAttr(str, 'hint')
 		return obj
 	},
 	afterEditorInput: function afterEditorInput(htmlString, params, abe) {
