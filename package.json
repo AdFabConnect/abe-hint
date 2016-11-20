@@ -1,0 +1,25 @@
+{
+  "name": "abe-hint",
+  "version": "1.0.0",
+  "description": "add hint under fields",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdFabConnect/abe-hint.git"
+  },
+  "keywords": [
+    "abe",
+    "plugin",
+    "cms",
+    "hint"
+  ],
+  "author": "Fabrice Labbé",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AdFabConnect/abe-hint/issues"
+  },
+  "homepage": "https://github.com/AdFabConnect/abe-hint#readme"
+}
